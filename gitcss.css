@@ -1,0 +1,24 @@
+/* author M Azd */
+	
+body {background-image:'surface-wall-paint-yellow.jpg';	
+}
+
+.contact{ 
+}
+
+h1 {font-style:italic;
+}
+
+figcaption { margin-left: 200px;
+	
+}
+
+#bottom {position:absolute;
+bottom:5%;	
+}
+
+#middle {position: relative;
+top:20%;
+}
+
+
